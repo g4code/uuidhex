@@ -1,9 +1,7 @@
-value-object
+uuidhex
 ======
 
-> value-object - [php](http://php.net) library
-
-[![Build Status](https://travis-ci.org/g4code/value-object.svg?branch=master)](https://travis-ci.org/g4code/value-object)
+> uuidhex - [php](http://php.net) library
 
 ## Install
 Via Composer

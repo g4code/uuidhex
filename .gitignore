@@ -2,6 +2,7 @@
 vendor
 
 composer.phar
+composer.lock
 
 tests/unit/coverage
 tests/unit/.phpunit.cache

@@ -51,7 +51,7 @@ class UuidHex
             $factory->getNumberConverter()
         ));
 
-        return new static($factory->uuid4()->getHex());
+        return new static((string)$factory->uuid4()->getHex());
     }
 
     /**
